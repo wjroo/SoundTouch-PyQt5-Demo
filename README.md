@@ -12,5 +12,5 @@ python app.py
 
 ## 用户界面-User Interface
 
-![screen](.\screen.png)
+![screen](https://github.com/wjroo/SoundTouch-PyQt5-Demo/blob/main/screen.png?raw=true)
 
