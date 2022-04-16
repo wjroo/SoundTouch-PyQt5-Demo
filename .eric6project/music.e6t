@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project music -->
+<!-- Saved: 2020-07-10, 22:42:37 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{233aa655-544a-4272-8f6d-c51beddd6b29}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2020-07-10, 19:31:16</Created>
+    <Resource>
+      <Filename>MainWindow.py</Filename>
+      <Linenumber>35</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{d643aa8c-8057-454a-8ba2-ec0b52f7b3ce}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2020-07-10, 19:31:16</Created>
+    <Resource>
+      <Filename>MainWindow.py</Filename>
+      <Linenumber>46</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{55309982-73d7-46db-99dc-da25c437aaef}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2020-07-10, 19:31:16</Created>
+    <Resource>
+      <Filename>MainWindow.py</Filename>
+      <Linenumber>57</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{a2b8300f-2a54-439f-84c7-13ac67497c09}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2020-07-10, 19:31:16</Created>
+    <Resource>
+      <Filename>MainWindow.py</Filename>
+      <Linenumber>68</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
